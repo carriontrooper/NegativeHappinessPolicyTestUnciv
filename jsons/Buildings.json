@@ -1,3 +1,11 @@
 [
-
+	{
+		"name": "Negative Happiness Building",
+		"happiness": -10,
+		"cost": 10,
+		"uniques": [
+			"Unbuildable",
+			"Cannot be purchased"
+		]
+	},
 ]
