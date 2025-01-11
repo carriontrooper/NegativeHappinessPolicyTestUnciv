@@ -5,6 +5,7 @@
 		"cost": 10,
 		"uniques": [
 			"Unbuildable",
+			"Unsellable",
 			"Cannot be purchased"
 		]
 	},
