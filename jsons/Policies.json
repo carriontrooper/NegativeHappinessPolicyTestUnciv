@@ -1,3 +1,31 @@
 [
-
+	{
+        "name": "Test",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        //"uniques": [
+        //],
+        "policies": [
+            {
+                "name": "Test Happiness",
+                "uniques": [
+                    "[+3 Happiness] [in all cities] <when below [3] Happiness>"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Test Complete",
+                //"uniques": [
+                //]
+            }
+        ]
+    },
+	
 ]
