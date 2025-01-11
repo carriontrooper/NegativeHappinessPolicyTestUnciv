@@ -1,3 +1,6 @@
-[
-
-]
+{
+	"name": "Global uniques",
+	"uniques": [
+		"Triggers a [Bountiful Harvest] event <upon discovering [Decontamination] technology>"
+	]
+}
