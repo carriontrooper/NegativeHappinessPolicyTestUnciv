@@ -1,3 +1,17 @@
 [
-
+	{
+		"name": "Test Policy Negative Happiness",
+		"text": "Testing testing",
+		"choices": [
+			{
+				"text": "Okay then",
+				"uniques": [
+					//adopt policy
+					"Adopt [Test Happiness]",
+					//add negative happiness building
+					"Gain a free [Negative Happiness Building] [in all cities]"
+				]
+			}
+		]
+	}
 ]
